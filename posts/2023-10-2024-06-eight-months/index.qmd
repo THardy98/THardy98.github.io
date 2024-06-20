@@ -3,7 +3,6 @@ title: "The Past 8 Months"
 author: "" 
 date: "2024-6-19" 
 categories: [life, update, growth, reflection] 
-image: ""
 ---
 
 Eight months ago in mid-October, I was laid off from my job at Cockroach Labs.
