@@ -1,0 +1,180 @@
+---
+title: "Fast.ai - Part 1.1: Getting Started"
+author: "Thomas Hardy"
+date: "2024-06-19"
+categories: [code, machine learning, deep learning, fast.ai]
+image: ""
+---
+
+This is the first in a series of posts covering my learning/progress from
+fast.ai.
+
+
+**Chapter 1 Questionaire**:
+
+
+1. Do you need these for deep learning?
+   
+    - Lots of math T/**F**
+    - Lots of data T/**F**
+    - Lots of expensive computers T/**F**
+    - A PhD T/**F**
+
+2. Name five areas where deep learning is now the best tool in the world.
+
+    - computer vision (i.e. face recognition, object detection)
+    - image generation (i.e. colorizing images, increasing image resolution)
+    - playing games (i.e. real-time strategy, chess)
+    - natural language processing (i.e. classifying/summarizing documents)
+    - recommendation systems/search (i.e. web search, product recommendations)
+    - forecasting (i.e. logistical or financial)
+    - text to speech/speech to text
+
+3. What was the name of the first device that was based on the principle of the
+artificial neuron?
+
+    It was called the *Mark 1 Perceptron*. It was created by Frank Rosenblatt, 
+who wrote about it in his paper "*The Design of an Intelligent Automaton*". The 
+principle it was based on was derived by Warren McCulloch and Walter Pitts, who 
+determined that a simplified model of a real neuron could be represented using 
+*simple addition and thresholding* (i.e. addition and thresholding of *inputs* 
+into the neuron to produce an output).
+
+4. Based on the book of the same name, what are the requirements for parallel dis‐
+tributed processing (PDP)?
+
+    There are **8** requirements for parallel
+distributed processing:
+        - a set of *processing units*
+        - a *state of activation*
+        - an *output function* for each unit
+        - a *pattern of connectivity* among units
+        - a *propagation rule* for propagating patterns of activities through
+          the network of connectivities
+        - an *activation rule* for combining the inputs impinging on a unit with
+          the current state of that unit to produce an output for the unit
+        - a *learning rule* whereby patterns of connectivity are modified by
+          experience
+        - an *environment* within which the system must operate 
+
+5. What were the two theoretical misunderstandings that held back the field of neu‐
+ral networks?
+
+
+    **After Review**: The first was a misunderstanding of the *capabilities* of
+a neural network, due to their initial inability to learn simple mathematical 
+functions (like XOR). The second was a misunderstanding that only using 2 layers
+in the neural network was sufficient to model any function, but in practice this
+was often too slow to be useful (coupled with the significantly weaker hardware
+of 30+ years ago).
+
+
+6. What is a GPU?
+
+    A GPU is a Graphic Processing Unit. A piece of hardware that is very good at
+running many, many small computations in parallel.
+
+7. Open a notebook and execute a cell containing: 1+1. What happens?
+
+    It executes and prints 2.
+
+8. Follow through each cell of the stripped version of the notebook for this chapter.
+Before executing each cell, guess what will happen.
+
+    Completed!
+
+9. Complete the Jupyter Notebook online appendix.
+
+    Completed!
+
+10. Why is it hard to use a traditional computer program to recognize images in a
+photo?
+
+    It's difficult because we would have to explicitly program every step of image
+recognization which would be tedious and error-prone. We're also not sure how it 
+works or how to program it to begin with.
+
+11. What did Samuel mean by “weight assignment”?
+
+    He meant the coefficients or parameters of the mathematical function (i.e. the
+model) that determine the function's (model's) behaviour.
+
+12. What term do we normally use in deep learning for what Samuel called
+“weights”?
+
+    We use the term *parameters*.
+
+13. Draw a picture that summarizes Samuel’s view of a machine learning model.
+
+![Samuel's view of a machine learning model](samuel_view_ml_model.png)
+
+14. Why is it hard to understand why a deep learning model makes a particular
+prediction?
+
+15. What is the name of the theorem that shows that a neural network can solve any
+mathematical problem to any level of accuracy?
+
+16. What do you need in order to train a model?
+
+17. How could a feedback loop impact the rollout of a predictive policing model?
+
+18. Do we always have to use 224×224-pixel images with the cat recognition model?
+
+19. What is the difference between classification and regression?
+
+20. What is a validation set? What is a test set? Why do we need them?
+
+21. What will fastai do if you don’t provide a validation set?
+
+22. Can we always use a random sample for a validation set? Why or why not?
+
+23. What is overfitting? Provide an example.
+
+24. What is a metric? How does it differ from loss?
+
+25. How can pretrained models help?
+
+26. What is the “head” of a model?
+
+27. What kinds of features do the early layers of a CNN find? How about the later
+layers?
+
+28. Are image models useful only for photos?
+
+29. What is an architecture?
+
+30. What is segmentation?
+
+31. What is y_range used for? When do we need it?
+
+32. What are hyperparameters?
+
+33. What’s the best way to avoid failures when using AI in an organization?
+
+---
+
+Here were my original answers before review:
+
+1. Same
+
+2.
+    - computer vision
+    - text to speech
+    - speech to text
+    - natural language processing
+    - recommendations systems/search
+
+3. Perceptron (or the Mark 1 or whatever it was).
+
+4. I don't know and don't remember. Maybe something like: operations are able to 
+be executed independently, independent results are able to be reassembled into a 
+complete result. (This was completely wrong)
+
+5. I don't remember, so not sure. I think something like neural networks wouldn't 
+be able to generalize to new data/problems and that they would not be able to 
+represent all problems (i.e. only work for specific types of problems/tasks).
+
+6. Same
+7. Same
+8. Same
+9. Same

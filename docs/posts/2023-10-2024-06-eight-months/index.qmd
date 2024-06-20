@@ -1,0 +1,118 @@
+---
+title: "The Past 8 Months" 
+author: "" 
+date: "2024-6-19" 
+categories: [life, update, growth, reflection] 
+image: ""
+draft: true 
+---
+
+Eight months ago in mid-October, I was laid off from my job at Cockroach Labs.
+Although I anticipated feeling upset, disappointment, maybe even betrayal or
+anger, in truth, I felt relieved. The culture was open and positive, the people
+were kind and friendly, and the engineering was the best I had worked at. But I
+wasn't happy. Its an odd feeling, having all the resources and flexibility that
+on paper should leave you at least content, but instead leave you feeling vapid
+and melancholy.  Even now I'm not sure I have totally grasped how unhappy I was.
+In hindsight, I would attribute this almost entirely to the work. I had no
+interest and felt no fulfillment from the work at all, nor was I particularly
+interested in the company's success/mission (aside for monetary gain).
+Naturally, I was not eager to look for another job. I was not eager to immerse
+myself in the same environment. Instead, I took some time off, intending to 
+explore personal interests and discover what I wanted to work on.
+
+So what have I done?
+
+I can broadly break this down into two categories:
+- exploratory career work
+- personal life/interests 
+
+
+**Exploratory Career Work**:
+
+After taking a few weeks away from coding, I spent the winter (late Nov-Jan)
+mostly working on an anime site called Weeby, machine learning courses (the
+Machine Learning Specialization by deeplearning.ai), and the first couple
+chapters of SICP. I enjoyed working through what is widely considered the
+foundational book of computer programming. Functional programming with Scheme
+was new for me and a fun little challenge.
+
+Afterwards I revisited systems programming. I hadn't done any since school and
+wanted a refresher on computer systems. I did a quick primer on C (CMU's 15-122
+course) and then worked through the labs of CMU's 15-213 course (their introductory
+course in computer systems). I remember working through the same textbook while I
+was in school, but there was very little programming and nowhere near as
+rigorous. This was a much more fulfilling learning experience. Implementing
+`malloc` is something every computer science student should do in school. At least
+I got round to it at 25. For those interested, don't be discouraged. It's
+not as hard as you would think, the cache lab on the other hand...
+
+I enjoyed the computer systems course and wanted to do some more systems
+programming, deciding on MIT's 6.824 course on distributed systems. Admittedly I
+had only gotten through the first lab before somewhat losing interest. I plan to
+revisit and complete this course (or some other distributed systems
+study/programming) at some point in the future.
+
+Over the past 1-1.5 months I've begrudingly re-entered the job market, largely
+motivated by the idea of working abroad (preferably Europe) and having an income
+(it would be nice to see money coming *in*...).  So I've been spending some time
+each day applying for jobs and the usual Leetcode grind.
+
+Only recently amidst this job hunt have I discovered (to some degree) what I'd
+like to work on. Until this point, I was fairly convinced that I would be
+satisfied working in some systems programming or infrastructure role. I wouldn't
+be enthralled or enchanted by it, but hopefully, not miserable. That was, until 
+I stumbled upon an article of fast-growing AI startups. I was pleasantly 
+surprised with how many were tackling problems I was actually interested in. 
+Interesting, impactful, and personally fulfilling. Not to mention the appeal of 
+a startup environment - fast pace, incredible learning environment, small 
+connected team, lots of autonomy, lots of building, little bureacracy. 
+The startup environment effectively acts as a compressed career time capsule, 
+which seems to me, the best place to grow. 
+
+As such, I've recently been trying to skill up as a machine learning engineer.
+Currently I am working through fast.ai, touted as a "Practical Deep Learning
+Course for Coders". We will see what comes of this journey in the weeks/months
+to come. 
+
+
+**Personal Life/Interests**
+
+A great silver lining with getting laid off is how much time you get back. Over
+the course of the last 8 months, I've been trying to judiciously allocate this
+time between study/career pivoting, friends/family and personal interests (with 
+mixed success... if anything I have spurts where I spend all my time studying, or
+spurts where I spend much more time than usual with social engagements, and
+stretches of time where I'm just... lazy).
+
+Here are some of the social and personal highlights of the past 8 months:
+
+- Went to a very close friend's engagement party, had a blast! Enjoyed meeting
+  new people and catching up with friends I hadn't seen in some time. A great
+event and celebration.
+
+- I've been able to hang out more frequently with friends who moved to Toronto 
+this past summer. It's nice having the time to form closer friendships and the
+opportunity to form new friendships with *their* friends. 
+
+- Movies! Watching lots of movies, brainstorming movie ideas, scriptwriting
+  (more to come on this later...) 
+
+- Enjoyed a Hitchcock movie month event at the cinema with my family.  Caught
+  some classics (Full Metal Jacket, Clockwork Orange, 2001)
+
+- Watched the eclipse with friends!
+
+- Multiple board game/poker nights with old friends :)
+
+- Went to a friend's concert - the first of his that I've attended - and he was
+  awesome! Really hoping to go to more in the future!
+
+- Went to the same friend's cottage over the winter, looking forward to going
+  again in the summer some time (hopefully this summer!) 
+
+I'm sure there are more I'm forgetting. It would be easier to remember if I took
+photos during these occassions but I'm historically terrible at doing so (maybe
+something to improve on in the future, some incentive with the blog). All in
+all, I've enjoyed just being able to spend more time with *people* and I'm
+appreciative that these people choose to spend their time with me. 
