@@ -43,7 +43,7 @@ course in computer systems). I remember working through the same textbook while 
 was in school, but there was very little programming and nowhere near as
 rigorous. This was a much more fulfilling learning experience. Implementing
 `malloc` is something every computer science student should do in school. At least
-I got round to it at 25. For those interested, don't be discouraged. It's
+I got around to it at 25. For those interested, don't be discouraged. It's
 not as hard as you would think, the cache lab on the other hand...
 
 I enjoyed the computer systems course and wanted to do some more systems
@@ -54,7 +54,7 @@ study/programming) at some point in the future.
 
 Over the past 1-1.5 months I've begrudingly re-entered the job market, largely
 motivated by the idea of working abroad (preferably Europe) and having an income
-(it would be nice to see money coming *in*...).  So I've been spending some time
+(it would be nice to see money coming *in*...). So I've been spending some time
 each day applying for jobs and the usual Leetcode grind.
 
 Only recently amidst this job hunt have I discovered (to some degree) what I'd
