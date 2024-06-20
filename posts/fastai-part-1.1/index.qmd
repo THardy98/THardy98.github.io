@@ -1,6 +1,5 @@
 ---
 title: "Fast.ai - Part 1.1: Getting Started"
-author: "Thomas Hardy"
 date: "2024-06-19"
 categories: [code, machine learning, deep learning, fast.ai]
 ---

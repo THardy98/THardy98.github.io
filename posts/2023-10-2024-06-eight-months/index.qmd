@@ -1,6 +1,5 @@
 ---
 title: "The Past 8 Months" 
-author: "" 
 date: "2024-6-18" 
 categories: [life, update, growth, reflection] 
 ---
