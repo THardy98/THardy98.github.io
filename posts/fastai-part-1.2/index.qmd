@@ -1,6 +1,6 @@
 ---
 title: "Fast.ai - Part 1.2: Deployment"
-date: "2024-06-21"
+date: "2024-06-22"
 categories: [code, machine learning, deep learning, fast.ai]
 ---
 
